@@ -458,6 +458,14 @@ footer {
 .blog-content .img.float-right {
   margin: 15px 0 15px 15px; }
 
+.img-text{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  font-size: 10px;
+  color: #f15e75;
+}
+
 @media (min-width: 768px) and (max-width: 1200px) {
   .boxed-page {
     margin-right: 30px;
