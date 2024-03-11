@@ -338,6 +338,11 @@ a {
 .bg-grey .blog-item {
   background-color: #fff; }
 
+.black-outline{
+  color: white;
+  text-shadow: 2px 0 0 #000, 0 -2px 0 #000, 0 2px 0 #000, -2px 0 0 #000;
+}
+
 .blog-item-wrapper {
   margin-bottom: 30px; }
 
